@@ -1,5 +1,8 @@
 function findTrait() {
-    const traits = ['Very Intelligent 🧠', 'Anger 😡', 'Speaking More 🗣️', 'Cute 🥰'];
+    const traits = ['Very Intelligent 🧠',
+                    'Anger 😡',
+                    'Speaking More 🗣️',
+                    'Cute 🥰'];
     const numberInput = document.getElementById('numberInput').value;
     const number = parseInt(numberInput, 10);
 
