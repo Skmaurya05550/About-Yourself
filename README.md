@@ -12,10 +12,10 @@ Welcome to the **About Yourself** web application! This interactive tool allows 
 ## Preview
 
 ### Application Interface
-![About Yourself Interface](https://i.ibb.co/f0d37VL/images.jpg) <!-- Replace with an actual screenshot of your application if available -->
+![About Yourself Interface]() <!-- Replace with an actual screenshot of your application if available -->
 
 ### How It Works
-![About Yourself GIF](https://example.com/your-gif-link.gif) <!-- Replace with the actual GIF link demonstrating how the application works -->
+![About Yourself GIF]() <!-- Replace with the actual GIF link demonstrating how the application works -->
 
 ## How to Use
 
